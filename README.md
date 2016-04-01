@@ -11,7 +11,7 @@ I used Webpack as a task runner and babel as a transpiler.
 ### How to use
 
 - `npm install`
-- `npm run dev` - localhost:8080
+- `npm run dev` - localhost:8080 or localhost:8080/webpack-dev-server/
 - `npm run build` - deploy to build folder
 
 TODO
