@@ -8,7 +8,14 @@ https://developer.forecast.io/
 
 I used Webpack as a task runner and babel as a transpiler.
 
+### How to use
+
+- `npm install`
+- `npm run dev` - localhost:8080
+- `npm run build` - deploy to build folder
+
 TODO
+
 1. Add some tests.
 2. Get built file size down.
 3. Get rid of jQuery.
